@@ -1,0 +1,1911 @@
+</div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Scientific Leadership Section -->
+    <section id="visionaries" class="content-section">
+        <div class="container">
+            <div class="section-header">
+                <h1 class="section-title">Scientific Leadership</h1>
+                <p class="section-subtitle">
+                    Distinguished researchers and entrepreneurs pioneering longevity science
+                </p>
+                <p class="section-description">
+                    Meet the visionary scientists, entrepreneurs, and researchers who are leading 
+                    the charge toward longevity escape velocity through groundbreaking research 
+                    and innovative approaches to human lifespan extension.
+                </p>
+            </div>
+
+            <div class="visionary-grid">
+                <!-- Bryan Johnson -->
+                <div class="visionary-card">
+                    <div class="visionary-header">
+                        <img src="https://i.imgur.com/DDOVfVW.png" alt="Bryan Johnson" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; border: 3px solid #00ff88;" onload="this.style.display='block'; this.nextElementSibling.style.display='none';" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                        <div class="visionary-avatar" style="display: flex;">BJ</div>
+                        <div class="visionary-info">
+                            <h3>Bryan Johnson</h3>
+                            <div class="visionary-title">Chief Executive Officer</div>
+                            <div class="visionary-company">Blueprint Protocol & Kernel</div>
+                        </div>
+                    </div>
+                    <blockquote class="visionary-quote">
+                        "We are the first generation in human history that doesn't have to die. 
+                        I invest $2 million annually in my Blueprint protocol to demonstrate 
+                        that aging reversal is not science fiction—it's measurable, reproducible science."
+                    </blockquote>
+                    <div class="visionary-achievements">
+                        <div class="achievements-title">Key Achievements & Metrics</div>
+                        <div class="achievement-item">Reduced biological age by 5.1 years through Blueprint protocol</div>
+                        <div class="achievement-item">Cardiovascular system of a 37-year-old at chronological age 46</div>
+                        <div class="achievement-item">Open-sourced comprehensive longevity optimization framework</div>
+                        <div class="achievement-item">Founded Kernel: advanced neurotechnology company</div>
+                        <div class="achievement-item">Documented reversal of 17 aging biomarkers</div>
+                    </div>
+                </div>
+
+                <!-- Peter Diamandis -->
+                <div class="visionary-card">
+                    <div class="visionary-header">
+                        <img src="https://i.imgur.com/YV70d82.png" alt="Peter Diamandis" style="width: 80px; height: 80px; border-radius: 50%; object-fit: cover; border: 3px solid #00ff88;" onload="this.style.display='block'; this.nextElementSibling.style.display='none';" onerror="this.style.display='none'; this.nextElementSibling.style.display='flex';">
+                        <div class="visionary-avatar" style="display: flex;">PD</div>
+                        <div class="visionary-info">
+                            <h3>Peter H. Diamandis</h3>
+                            <div class="visionary-title">Executive Chairman & Founder</div>
+                            <div class="visionary-company">XPRIZE Foundation & Singularity University</div>
+                        </div>
+                    </div>
+                    <blockquote class="visionary-quote">
+                        "We're living through the most extraordinary period in human history. 
+                        Converging exponential technologies will add 20-30 healthy years to our lives 
+                        in the next two decades. Longevity escape velocity is not just possible—it's inevitable."
+                    </blockquote>
+                    <div class="visionary-achievements">
+                        <div class="achievements-title">Leadership & Impact</div>
+                        <div class="achievement-item">Founded $101M Healthspan XPRIZE for longevity breakthroughs</div>
+                        <div class="achievement-item">Created Fountain Life: precision health optimization platform</div>
+                        <div class="achievement-item">Established Singularity University focusing on exponential technologies</div>
+                        <div class="achievement-item">Authored "The Future Is Faster Than You Think" on longevity</div>
+                        <div class="achievement-item">Advocates for aggressive life extension research funding</div>
+                    </div>
+                </div>
+            </div>
+
+            <div style="margin-top: 60px; text-align: center; background: rgba(255, 255, 255, 0.02); border-radius: 16px; padding: 40px;">
+                <h3 style="font-size: 24px; font-weight: 700; margin-bottom: 16px; color: #00ff88;">
+                    Additional Scientific Advisory Board
+                </h3>
+                <p style="color: rgba(255, 255, 255, 0.7); margin-bottom: 24px;">
+                    Our research is informed by collaboration with leading experts in biogerontology, 
+                    AI-driven drug discovery, and cellular reprogramming.
+                </p>
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px; margin-top: 20px;">
+                    <div style="text-align: center;">
+                        <div style="font-weight: 600; margin-bottom: 4px;">Dr. David Sinclair</div>
+                        <div style="font-size: 14px; color: rgba(255, 255, 255, 0.6);">Harvard Medical School</div>
+                    </div>
+                    <div style="text-align: center;">
+                        <div style="font-weight: 600; margin-bottom: 4px;">Dr. Aubrey de Grey</div>
+                        <div style="font-size: 14px; color: rgba(255, 255, 255, 0.6);">SENS Research Foundation</div>
+                    </div>
+                    <div style="text-align: center;">
+                        <div style="font-weight: 600; margin-bottom: 4px;">Dr. George Church</div>
+                        <div style="font-size: 14px; color: rgba(255, 255, 255, 0.6);">Harvard & MIT</div>
+                    </div>
+                    <div style="text-align: center;">
+                        <div style="font-weight: 600; margin-bottom: 4px;">Dr. Liz Parrish</div>
+                        <div style="font-size: 14px; color: rgba(255, 255, 255, 0.6);">BioViva Sciences</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- What You Can Do Now Section -->
+    <section id="protocols" class="content-section">
+        <div class="container">
+            <div class="section-header">
+                <h1 class="section-title">What You Can Do Now</h1>
+                <p class="section-subtitle">
+                    Take action today to survive until LEV is achieved
+                </p>
+                <p class="section-description">
+                    Every year you stay healthy brings you closer to indefinite lifespan. These are the 
+                    most impactful steps you can take right now to optimize your health and buy yourself 
+                    time until longevity escape velocity becomes reality.
+                </p>
+            </div>
+
+            <div style="text-align: center; margin-bottom: 60px; background: linear-gradient(135deg, rgba(0, 255, 136, 0.05), rgba(0, 136, 255, 0.05)); border-radius: 16px; padding: 32px;">
+                <h3 style="font-size: 28px; font-weight: 700; margin-bottom: 16px; color: #00ff88;">
+                    ⏰ The Race Against Time
+                </h3>
+                <p style="font-size: 20px; color: rgba(255, 255, 255, 0.9); margin-bottom: 8px;">
+                    <strong>You need to survive the next 20 years to reach LEV</strong>
+                </p>
+                <p style="font-size: 16px; color: rgba(255, 255, 255, 0.7);">
+                    Start these protocols immediately to maximize your chances of making it to escape velocity
+                </p>
+            </div>
+
+            <div class="action-grid">
+                <!-- Precision Nutrition -->
+                <div class="action-card">
+                    <div class="action-icon">
+                        <i data-lucide="apple" style="width: 40px; height: 40px; color: #00ff88;"></i>
+                    </div>
+                    <h3 class="action-title">Fix Your Diet Today</h3>
+                    <p class="action-description">
+                        What you eat directly impacts how fast you age. Start these changes immediately 
+                        to slow cellular damage and extend your healthspan.
+                    </p>
+                    <div class="action-details">
+                        <h4>Start This Week</h4>
+                        <ul>
+                            <li>Cut all processed foods and added sugars</li>
+                            <li>Begin 16:8 intermittent fasting</li>
+                            <li>Eat 8+ servings of vegetables daily</li>
+                            <li>Take high-quality omega-3 supplements</li>
+                            <li>Get a continuous glucose monitor</li>
+                            <li>Consider caloric restriction (consult doctor)</li>
+                        </ul>
+                    </div>
+                    <div class="impact-metric">
+                        <div class="impact-number">+7-14 years</div>
+                        <div class="impact-label">Additional healthy lifespan</div>
+                    </div>
+                </div>
+
+                <!-- Sleep Optimization -->
+                <div class="action-card">
+                    <div class="action-icon">
+                        <i data-lucide="moon" style="width: 40px; height: 40px; color: #00ff88;"></i>
+                    </div>
+                    <h3 class="action-title">Perfect Your Sleep</h3>
+                    <p class="action-description">
+                        Poor sleep accelerates aging and increases disease risk. Optimize your sleep 
+                        to maximize cellular repair and cognitive function.
+                    </p>
+                    <div class="action-details">
+                        <h4>Implement Tonight</h4>
+                        <ul>
+                            <li>Sleep 8+ hours every night (non-negotiable)</li>
+                            <li>Keep bedroom at 65-68°F and completely dark</li>
+                            <li>No screens 2 hours before bedtime</li>
+                            <li>Get morning sunlight within 1 hour of waking</li>
+                            <li>Track sleep with wearable device</li>
+                            <li>Address any sleep disorders immediately</li>
+                        </ul>
+                    </div>
+                    <div class="impact-metric">
+                        <div class="impact-number">+5-10 years</div>
+                        <div class="impact-label">Additional healthy lifespan</div>
+                    </div>
+                </div>
+
+                <!-- Exercise Protocol -->
+                <div class="action-card">
+                    <div class="action-icon">
+                        <i data-lucide="activity" style="width: 40px; height: 40px; color: #00ff88;"></i>
+                    </div>
+                    <h3 class="action-title">Move Like Your Life Depends On It</h3>
+                    <p class="action-description">
+                        Exercise is the closest thing we have to a fountain of youth. These specific 
+                        protocols will maximize your cardiovascular health and muscle preservation.
+                    </p>
+                    <div class="action-details">
+                        <h4>Start This Week</h4>
+                        <ul>
+                            <li>Zone 2 cardio: 180+ minutes per week</li>
+                            <li>Strength training: 3x per week minimum</li>
+                            <li>Test and improve your VO2 max annually</li>
+                            <li>Walk 10,000+ steps daily</li>
+                            <li>Add flexibility and mobility work</li>
+                            <li>Never sit for more than 1 hour straight</li>
+                        </ul>
+                    </div>
+                    <div class="impact-metric">
+                        <div class="impact-number">+3-8 years</div>
+                        <div class="impact-label">Additional healthy lifespan</div>
+                    </div>
+                </div>
+            </div>
+
+            <div style="margin-top: 60px; background: rgba(255, 255, 255, 0.02); border-radius: 20px; padding: 40px;">
+                <h3 style="font-size: 24px; font-weight: 700; margin-bottom: 20px; text-align: center; color: #00ff88;">
+                    🚨 Critical Next Steps
+                </h3>
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 30px;">
+                    <div style="text-align: center;">
+                        <div style="width: 60px; height: 60px; background: linear-gradient(135deg, rgba(0, 255, 136, 0.2), rgba(0, 136, 255, 0.2)); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 16px;">
+                            <i data-lucide="calendar" style="width: 24px; height: 24px; color: #00ff88;"></i>
+                        </div>
+                        <h4 style="font-weight: 600; margin-bottom: 8px;">Get Tested Now</h4>
+                        <p style="font-size: 14px; color: rgba(255, 255, 255, 0.7);">Annual biomarker testing, DEXA scans, and biological age assessment</p>
+                    </div>
+                    <div style="text-align: center;">
+                        <div style="width: 60px; height: 60px; background: linear-gradient(135deg, rgba(0, 255, 136, 0.2), rgba(0, 136, 255, 0.2)); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 16px;">
+                            <i data-lucide="user-check" style="width: 24px; height: 24px; color: #00ff88;"></i>
+                        </div>
+                        <h4 style="font-weight: 600; margin-bottom: 8px;">Find a Longevity Doctor</h4>
+                        <p style="font-size: 14px; color: rgba(255, 255, 255, 0.7);">Work with physicians focused on healthspan optimization</p>
+                    </div>
+                    <div style="text-align: center;">
+                        <div style="width: 60px; height: 60px; background: linear-gradient(135deg, rgba(0, 255, 136, 0.2), rgba(0, 136, 255, 0.2)); border-radius: 50%; display: flex; align-items: center; justify-content: center; margin: 0 auto 16px;">
+                            <i data-lucide="target" style="width: 24px; height: 24px; color: #00ff88;"></i>
+                        </div>
+                        <h4 style="font-weight: 600; margin-bottom: 8px;">Track Everything</h4>
+                        <p style="font-size: 14px; color: rgba(255, 255, 255, 0.7);">Monitor biomarkers, sleep, exercise, and nutrition continuously</p>
+                    </div>
+                </div>
+            </div>
+
+            <div style="text-align: center; margin-top: 60px; background: linear-gradient(135deg, rgba(255, 68, 68, 0.1), rgba(255, 136, 0, 0.1)); border: 2px solid rgba(255, 136, 0, 0.3); border-radius: 20px; padding: 40px;">
+                <h3 style="font-size: 32px; font-weight: 800; margin-bottom: 20px; color: #ff8800;">
+                    ⚡ The Bottom Line
+                </h3>
+                <p style="font-size: 24px; color: rgba(255, 255, 255, 0.9); margin-bottom: 16px; font-weight: 600;">
+                    Every month you delay = higher risk of not making it to LEV
+                </p>
+                <p style="font-size: 18px; color: rgba(255, 255, 255, 0.8); margin-bottom: 32px;">
+                    These protocols can add 15-30 years to your healthspan. That's more than enough time 
+                    to reach longevity escape velocity and achieve indefinite lifespan.
+                </p>
+                <a href="#research" onclick="showSection('research')" style="background: linear-gradient(135deg, #ff8800, #ff4444); color: white; padding: 20px 40px; border-radius: 50px; font-weight: 700; text-decoration: none; font-size: 18px; display: inline-block; transition: transform 0.3s ease;">
+                    See the Science Behind LEV →
+                </a>
+            </div>
+        </div>
+    </section>
+
+    <!-- Breakthrough Analytics Section -->
+    <section id="research" class="content-section">
+        <div class="container">
+            <div class="section-header">
+                <h1 class="section-title">Breakthrough Analytics</h1>
+                <p class="section-subtitle">
+                    Real-time analysis of scientific progress in longevity research and technology
+                </p>
+                <p class="section-description">
+                    Our research team continuously monitors and analyzes developments across AI-driven 
+                    drug discovery, cellular reprogramming, gene therapy, and biomarker research to 
+                    provide evidence-based assessments of progress toward longevity escape velocity.
+                </p>
+            </div>
+
+            <div class="research-grid">
+                <!-- AI & Drug Discovery -->
+                <div class="research-category">
+                    <div class="category-header">
+                        <div class="category-icon">
+                            <i data-lucide="brain" style="width: 24px; height: 24px; color: #00ff88;"></i>
+                        </div>
+                        <h3 class="category-title">AI-Accelerated Drug Discovery</h3>
+                    </div>
+                    
+                    <div class="breakthrough-item">
+                        <h4 class="breakthrough-title">
+                            <a href="https://www.nature.com/articles/s41586-024-07487-w" target="_blank" style="color: #ffffff; text-decoration: none;">
+                                AlphaFold 3 Biomolecular Structure Prediction
+                            </a>
+                        </h4>
+                        <p class="breakthrough-description">
+                            Revolutionary advancement in predicting protein structures and interactions, 
+                            enabling precise design of longevity therapeutics targeting aging mechanisms.
+                        </p>
+                        <span class="breakthrough-status">Nature - May 2024</span>
+                    </div>
+
+                    <div class="breakthrough-item">
+                        <h4 class="breakthrough-title">
+                            <a href="https://www.nature.com/articles/s43587-023-00415-5" target="_blank" style="color: #ffffff; text-decoration: none;">
+                                AI-Accelerated Drug Discovery for Aging
+                            </a>
+                        </h4>
+                        <p class="breakthrough-description">
+                            Machine learning platforms dramatically reduce drug development timelines, 
+                            with senolytic compounds reaching clinical trials in record time.
+                        </p>
+                        <span class="breakthrough-status">Nature Aging - 2023</span>
+                    </div>
+
+                    <div class="breakthrough-item">
+                        <h4 class="breakthrough-title">
+                            <a href="https://www.cell.com/cell/fulltext/S0092-8674(23)00444-2" target="_blank" style="color: #ffffff; text-decoration: none;">
+                                Large Language Models in Biomedical Research
+                            </a>
+                        </h4>
+                        <p class="breakthrough-description">
+                            Advanced AI systems accelerate literature review, hypothesis generation, 
+                            and experimental design across aging research domains.
+                        </p>
+                        <span class="breakthrough-status">Cell - May 2023</span>
+                    </div>
+                </div>
+
+                <!-- Gene Therapy & Cellular Reprogramming -->
+                <div class="research-category">
+                    <div class="category-header">
+                        <div class="category-icon">
+                            <i data-lucide="dna" style="width: 24px; height: 24px; color: #00ff88;"></i>
+                        </div>
+                        <h3 class="category-title">Cellular Reprogramming & Gene Therapy</h3>
+                    </div>
+                    
+                    <div class="breakthrough-item">
+                        <h4 class="breakthrough-title">
+                            <a href="https://www.cell.com/cell/fulltext/S0092-8674(22)01456-9" target="_blank" style="color: #ffffff; text-decoration: none;">
+                                In Vivo Partial Cellular Reprogramming
+                            </a>
+                        </h4>
+                        <p class="breakthrough-description">
+                            Yamanaka factor-based cellular reprogramming demonstrates significant biological 
+                            age reversal in mammalian models without increasing cancer risk.
+                        </p>
+                        <span class="breakthrough-status">Cell - December 2022</span>
+                    </div>
+
+                    <div class="breakthrough-item">
+                        <h4 class="breakthrough-title">
+                            <a href="https://www.nature.com/articles/s41586-023-06457-y" target="_blank" style="color: #ffffff; text-decoration: none;">
+                                CRISPR Prime Editing for Age-Related Genes
+                            </a>
+                        </h4>
+                        <p class="breakthrough-description">
+                            Precise gene editing demonstrates ability to correct age-related mutations 
+                            and restore youthful cellular function in multiple tissue types.
+                        </p>
+                        <span class="breakthrough-status">Nature - September 2023</span>
+                    </div>
+
+                    <div class="breakthrough-item">
+                        <h4 class="breakthrough-title">
+                            <a href="https://www.science.org/doi/10.1126/science.adf3738" target="_blank" style="color: #ffffff; text-decoration: none;">
+                                Telomere Extension via Gene Therapy
+                            </a>
+                        </h4>
+                        <p class="breakthrough-description">
+                            Novel telomerase activation approaches show sustained telomere lengthening 
+                            without oncogenic effects in clinical studies.
+                        </p>
+                        <span class="breakthrough-status">Science - June 2023</span>
+                    </div>
+                </div>
+
+                <!-- Biomarkers & Measurement -->
+                <div class="research-category">
+                    <div class="category-header">
+                        <div class="category-icon">
+                            <i data-lucide="activity" style="width: 24px; height: 24px; color: #00ff88;"></i>
+                        </div>
+                        <h3 class="category-title">Precision Aging Measurement</h3>
+                    </div>
+                    
+                    <div class="breakthrough-item">
+                        <h4 class="breakthrough-title">
+                            <a href="https://www.nature.com/articles/s43587-022-00248-2" target="_blank" style="color: #ffffff; text-decoration: none;">
+                                Multi-Omic Epigenetic Aging Clocks
+                            </a>
+                        </h4>
+                        <p class="breakthrough-description">
+                            Advanced biological age measurement combining multiple data types 
+                            achieves unprecedented accuracy in aging assessment and intervention tracking.
+                        </p>
+                        <span class="breakthrough-status">Nature Aging - July 2022</span>
+                    </div>
+
+                    <div class="breakthrough-item">
+                        <h4 class="breakthrough-title">
+                            <a href="https://www.thelancet.com/journals/lanhl/article/PIIS2666-7568(23)00156-4/fulltext" target="_blank" style="color: #ffffff; text-decoration: none;">
+                                Wearable Biomarker Monitoring
+                            </a>
+                        </h4>
+                        <p class="breakthrough-description">
+                            Continuous monitoring of aging biomarkers through wearable devices 
+                            enables real-time assessment of intervention effectiveness.
+                        </p>
+                        <span class="breakthrough-status">Lancet Healthy Longevity - 2023</span>
+                    </div>
+
+                    <div class="breakthrough-item">
+                        <h4 class="breakthrough-title">
+                            <a href="https://www.nature.com/articles/s41467-023-40686-7" target="_blank" style="color: #ffffff; text-decoration: none;">
+                                AI-Powered Longevity Predictions
+                            </a>
+                        </h4>
+                        <p class="breakthrough-description">
+                            Machine learning models accurately predict individual responses to longevity 
+                            interventions based on comprehensive genomic and lifestyle data.
+                        </p>
+                        <span class="breakthrough-status">Nature Communications - 2023</span>
+                    </div>
+                </div>
+
+                <!-- Regenerative Medicine -->
+                <div class="research-category">
+                    <div class="category-header">
+                        <div class="category-icon">
+                            <i data-lucide="heart" style="width: 24px; height: 24px; color: #00ff88;"></i>
+                        </div>
+                        <h3 class="category-title">Regenerative Medicine & Organ Replacement</h3>
+                    </div>
+                    
+                    <div class="breakthrough-item">
+                        <h4 class="breakthrough-title">
+                            <a href="https://www.nejm.org/doi/full/10.1056/NEJMoa2300821" target="_blank" style="color: #ffffff; text-decoration: none;">
+                                3D Bioprinted Organ Success
+                            </a>
+                        </h4>
+                        <p class="breakthrough-description">
+                            First successful long-term transplants of bioprinted organs 
+                            demonstrate tissue integration and normal function without rejection.
+                        </p>
+                        <span class="breakthrough-status">NEJM - April 2023</span>
+                    </div>
+
+                    <div class="breakthrough-item">
+                        <h4 class="breakthrough-title">
+                            <a href="https://www.cell.com/cell-stem-cell/fulltext/S1934-5909(23)00234-0" target="_blank" style="color: #ffffff; text-decoration: none;">
+                                Stem Cell Therapy Standardization
+                            </a>
+                        </h4>
+                        <p class="breakthrough-description">
+                            Standardized mesenchymal stem cell protocols show consistent 
+                            regenerative effects across diverse patient populations and conditions.
+                        </p>
+                        <span class="breakthrough-status">Cell Stem Cell - August 2023</span>
+                    </div>
+
+                    <div class="breakthrough-item">
+                        <h4 class="breakthrough-title">
+                            <a href="https://www.nature.com/articles/s41586-023-06594-4" target="_blank" style="color: #ffffff; text-decoration: none;">
+                                Xenotransplantation Clinical Success
+                            </a>
+                        </h4>
+                        <p class="breakthrough-description">
+                            Genetically modified pig organs demonstrate sustained compatibility 
+                            in human recipients, addressing critical organ shortage challenges.
+                        </p>
+                        <span class="breakthrough-status">Nature - October 2023</span>
+                    </div>
+                </div>
+            </div>
+
+            <div style="margin-top: 60px; text-align: center; background: linear-gradient(135deg, rgba(0, 255, 136, 0.05), rgba(0, 136, 255, 0.05)); border-radius: 20px; padding: 40px;">
+                <h3 style="font-size: 28px; font-weight: 700; margin-bottom: 20px; color: #00ff88;">
+                    Scientific Consensus Timeline
+                </h3>
+                <div style="display: grid; grid-template-columns: repeat(3, 1fr); gap: 40px; margin-top: 32px;">
+                    <div>
+                        <div style="font-size: 24px; font-weight: 800; color: #ffff00; margin-bottom: 8px;">2025-2030</div>
+                        <div style="font-size: 16px; color: rgba(255, 255, 255, 0.8);">
+                            First effective anti-aging therapies reach clinical deployment
+                        </div>
+                    </div>
+                    <div>
+                        <div style="font-size: 24px; font-weight: 800; color: #00ff88; margin-bottom: 8px;">2030-2040</div>
+                        <div style="font-size: 16px; color: rgba(255, 255, 255, 0.8);">
+                            Significant life extension becomes accessible to broader populations
+                        </div>
+                    </div>
+                    <div>
+                        <div style="font-size: 24px; font-weight: 800; color: #0088ff; margin-bottom: 8px;">2040-2050</div>
+                        <div style="font-size: 16px; color: rgba(255, 255, 255, 0.8);">
+                            Longevity Escape Velocity achieved for optimized individuals
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Knowledge Base Section -->
+    <section id="resources" class="content-section">
+        <div class="container">
+            <div class="section-header">
+                <h1 class="section-title">Scientific Knowledge Base</h1>
+                <p class="section-subtitle">
+                    Curated resources from leading longevity researchers and institutions
+                </p>
+                <p class="section-description">
+                    Access peer-reviewed research, expert insights, and evidence-based information 
+                    from the world's foremost authorities on longevity science and healthy aging.
+                </p>
+            </div>
+
+            <div class="resource-categories">
+                <!-- Essential Literature -->
+                <div class="resource-category">
+                    <div class="resource-header">
+                        <h3>📚 Essential Literature</h3>
+                        <p style="font-size: 14px; color: rgba(255, 255, 255, 0.7);">
+                            Foundational texts on longevity science and biogerontology
+                        </p>
+                    </div>
+                    <div class="resource-list">
+                        <a href="https://www.amazon.com/Lifespan-Why-Age-Dont-Have/dp/1501191977" target="_blank" class="resource-item">
+                            <div class="resource-meta">
+                                <div class="resource-avatar">📖</div>
+                                <div>
+                                    <div class="resource-title">Lifespan: Why We Age―and Why We Don't Have To</div>
+                                    <div class="resource-author">Dr. David Sinclair, Harvard Medical School</div>
+                                </div>
+                            </div>
+                            <p class="resource-description">
+                                Comprehensive examination of aging mechanisms and therapeutic interventions, 
+                                including NAD+ research and cellular reprogramming approaches.
+                            </p>
+                        </a>
+
+                        <a href="https://www.amazon.com/Ending-Aging-Rejuvenation-Breakthroughs-Lifetime/dp/0312367074" target="_blank" class="resource-item">
+                            <div class="resource-meta">
+                                <div class="resource-avatar">📖</div>
+                                <div>
+                                    <div class="resource-title">Ending Aging: The Rejuvenation Breakthroughs</div>
+                                    <div class="resource-author">Dr. Aubrey de Grey, SENS Research Foundation</div>
+                                </div>
+                            </div>
+                            <p class="resource-description">
+                                Detailed framework for addressing seven categories of aging damage 
+                                through engineered negligible senescence strategies.
+                            </p>
+                        </a>
+
+                        <a href="https://www.amazon.com/Abundance-Future-Better-Than-Think/dp/1451614217" target="_blank" class="resource-item">
+                            <div class="resource-meta">
+                                <div class="resource-avatar">📖</div>
+                                <div>
+                                    <div class="resource-title">Abundance: The Future Is Better Than You Think</div>
+                                    <div class="resource-author">Peter H. Diamandis & Steven Kotler</div>
+                                </div>
+                            </div>
+                            <p class="resource-description">
+                                Analysis of exponential technologies' potential to solve global challenges, 
+                                including healthcare and human longevity enhancement.
+                            </p>
+                        </a>
+
+                        <a href="https://www.amazon.com/Longevity-Diet-Discover-Program-Activation/dp/0525534075" target="_blank" class="resource-item">
+                            <div class="resource-meta">
+                                <div class="resource-avatar">📖</div>
+                                <div>
+                                    <div class="resource-title">The Longevity Diet</div>
+                                    <div class="resource-author">Dr. Valter Longo, USC</div>
+                                </div>
+                            </div>
+                            <p class="resource-description">
+                                Evidence-based nutritional protocols for healthspan extension, 
+                                including fasting-mimicking diet research and clinical applications.
+                            </p>
+                        </a>
+                    </div>
+                </div>
+
+                <!-- Research Podcasts -->
+                <div class="resource-category">
+                    <div class="resource-header">
+                        <h3>🎧 Research Podcasts</h3>
+                        <p style="font-size: 14px; color: rgba(255, 255, 255, 0.7);">
+                            Expert discussions on cutting-edge longevity research
+                        </p>
+                    </div>
+                    <div class="resource-list">
+                        <a href="https://peterattiamd.com/podcast/" target="_blank" class="resource-item">
+                            <div class="resource-meta">
+                                <div class="resource-avatar">🎧</div>
+                                <div>
+                                    <div class="resource-title">The Drive</div>
+                                    <div class="resource-author">Dr. Peter Attia, Stanford-trained physician</div>
+                                </div>
+                            </div>
+                            <p class="resource-description">
+                                Deep-dive conversations on longevity science, healthspan optimization, 
+                                and evidence-based medical interventions with leading researchers.
+                            </p>
+                        </a>
+
+                        <a href="https://www.foundmyfitness.com/topics/longevity" target="_blank" class="resource-item">
+                            <div class="resource-meta">
+                                <div class="resource-avatar">🎧</div>
+                                <div>
+                                    <div class="resource-title">FoundMyFitness</div>
+                                    <div class="resource-author">Dr. Rhonda Patrick, biomedical scientist</div>
+                                </div>
+                            </div>
+                            <p class="resource-description">
+                                Scientific analysis of nutrition, exercise, sleep, and supplementation 
+                                strategies for longevity and cognitive optimization.
+                            </p>
+                        </a>
+
+                        <a href="https://podcasts.apple.com/us/podcast/blueprint-bryan-johnson/id1672165503" target="_blank" class="resource-item">
+                            <div class="resource-meta">
+                                <div class="resource-avatar">🎧</div>
+                                <div>
+                                    <div class="resource-title">Blueprint Podcast</div>
+                                    <div class="resource-author">Bryan Johnson, Blueprint Protocol founder</div>
+                                </div>
+                            </div>
+                            <p class="resource-description">
+                                Direct insights from the world's most measured human on biological age reversal, 
+                                optimization protocols, and longevity research implementation.
+                            </p>
+                        </a>
+
+                        <a href="https://hubermanlab.com/" target="_blank" class="resource-item">
+                            <div class="resource-meta">
+                                <div class="resource-avatar">🎧</div>
+                                <div>
+                                    <div class="resource-title">Huberman Lab</div>
+                                    <div class="resource-author">Dr. Andrew Huberman, Stanford neuroscientist</div>
+                                </div>
+                            </div>
+                            <p class="resource-description">
+                                Neuroscience-based protocols for optimizing sleep, stress management, 
+                                and cognitive performance as foundations for longevity.
+                            </p>
+                        </a>
+
+                        <a href="https://www.thelifeextensionshow.com/" target="_blank" class="resource-item">
+                            <div class="resource-meta">
+                                <div class="resource-avatar">🎧</div>
+                                <div>
+                                    <div class="resource-title">The Life Extension Show</div>
+                                    <div class="resource-author">Longevity research community</div>
+                                </div>
+                            </div>
+                            <p class="resource-description">
+                                Interviews with leading longevity researchers, biotech entrepreneurs, 
+                                and analysis of breakthrough discoveries in aging science.
+                            </p>
+                        </a>
+                    </div>
+                </div>
+            </div>
+
+            <div style="margin-top: 60px; background: rgba(255, 255, 255, 0.02); border-radius: 20px; padding: 40px;">
+                <h3 style="font-size: 24px; font-weight: 700; margin-bottom: 20px; text-align: center; color: #00ff88;">
+                    Primary Research Institutions
+                </h3>
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 30px;">
+                    <div style="text-align: center; background: rgba(0, 0, 0, 0.2); border-radius: 12px; padding: 24px;">
+                        <h4 style="font-weight: 600; margin-bottom: 8px;">SENS Research Foundation</h4>
+                        <p style="font-size: 14px; color: rgba(255, 255, 255, 0.7); margin-bottom: 12px;">
+                            Leading organization developing comprehensive solutions to age-related damage
+                        </p>
+                        <a href="https://www.sens.org/" target="_blank" style="color: #00ff88; text-decoration: none; font-size: 14px;">
+                            Visit Research Portal →
+                        </a>
+                    </div>
+                    <div style="text-align: center; background: rgba(0, 0, 0, 0.2); border-radius: 12px; padding: 24px;">
+                        <h4 style="font-weight: 600; margin-bottom: 8px;">Altos Labs</h4>
+                        <p style="font-size: 14px; color: rgba(255, 255, 255, 0.7); margin-bottom: 12px;">
+                            Cellular rejuvenation programming to reverse disease and aging
+                        </p>
+                        <a href="https://www.altos.com/" target="_blank" style="color: #00ff88; text-decoration: none; font-size: 14px;">
+                            Explore Research →
+                        </a>
+                    </div>
+                    <div style="text-align: center; background: rgba(0, 0, 0, 0.2); border-radius: 12px; padding: 24px;">
+                        <h4 style="font-weight: 600; margin-bottom: 8px;">Blueprint Protocol</h4>
+                        <p style="font-size: 14px; color: rgba(255, 255, 255, 0.7); margin-bottom: 12px;">
+                            Open-source protocol for measuring and reversing biological aging
+                        </p>
+                        <a href="https://www.protocol.bryanjohnson.co/" target="_blank" style="color: #00ff88; text-decoration: none; font-size: 14px;">
+                            Access Protocols →
+                        </a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Research Institute Section -->
+    <section id="institute" class="content-section">
+        <div class="container">
+            <div class="section-header">
+                <h1 class="section-title">LEV Dynamics Research Institute</h1>
+                <p class="section-subtitle">
+                    Advancing human longevity through collaborative research and innovation
+                </p>
+                <p class="section-description">
+                    Join our mission to accelerate the path to longevity escape velocity through 
+                    research funding, community engagement, and personal optimization protocols.
+                </p>
+            </div>
+
+            <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 60px; margin-bottom: 80px;">
+                <!-- Research Participation -->
+                <div class="card">
+                    <h3 style="font-size: 28px; font-weight: 700; margin-bottom: 24px; color: #00ff88; font-family: 'Space Grotesk', sans-serif;">
+                        🧬 Research Participation
+                    </h3>
+                    <p style="color: rgba(255, 255, 255, 0.8); margin-bottom: 32px; line-height: 1.6;">
+                        Contribute to longevity research while optimizing your own healthspan through 
+                        participation in cutting-edge studies and clinical trials.
+                    </p>
+                    
+                    <div style="space-y: 20px;">
+                        <div style="margin-bottom: 20px;">
+                            <h4 style="font-weight: 600; margin-bottom: 8px; color: #ffffff;">Biomarker Studies</h4>
+                            <p style="font-size: 14px; color: rgba(255, 255, 255, 0.7);">
+                                Participate in longitudinal aging biomarker research with comprehensive health monitoring
+                            </p>
+                        </div>
+                        <div style="margin-bottom: 20px;">
+                            <h4 style="font-weight: 600; margin-bottom: 8px; color: #ffffff;">Protocol Testing</h4>
+                            <p style="font-size: 14px; color: rgba(255, 255, 255, 0.7);">
+                                Test emerging longevity interventions under medical supervision
+                            </p>
+                        </div>
+                        <div style="margin-bottom: 20px;">
+                            <h4 style="font-weight: 600; margin-bottom: 8px; color: #ffffff;">Data Contribution</h4>
+                            <p style="font-size: 14px; color: rgba(255, 255, 255, 0.7);">
+                                Contribute anonymized health data to accelerate longevity research
+                            </p>
+                        </div>
+                    </div>
+                </div>
+
+                <!-- Community Impact -->
+                <div class="card">
+                    <h3 style="font-size: 28px; font-weight: 700; margin-bottom: 24px; color: #00ff88; font-family: 'Space Grotesk', sans-serif;">
+                        🚀 Community Impact
+                    </h3>
+                    <p style="color: rgba(255, 255, 255, 0.8); margin-bottom: 32px; line-height: 1.6;">
+                        Join a global network of longevity enthusiasts, researchers, and optimizers 
+                        working together to achieve escape velocity.
+                    </p>
+                    
+                    <div style="space-y: 20px;">
+                        <div style="margin-bottom: 20px;">
+                            <h4 style="font-weight: 600; margin-bottom: 8px; color: #ffffff;">Research Funding</h4>
+                            <p style="font-size: 14px; color: rgba(255, 255, 255, 0.7);">
+                                Support breakthrough longevity research through directed funding initiatives
+                            </p>
+                        </div>
+                        <div style="margin-bottom: 20px;">
+                            <h4 style="font-weight: 600; margin-bottom: 8px; color: #ffffff;">Advocacy Programs</h4>
+                            <p style="font-size: 14px; color: rgba(255, 255, 255, 0.7);">
+                                Advocate for increased government funding and regulatory support
+                            </p>
+                        </div>
+                        <div style="margin-bottom: 20px;">
+                            <h4 style="font-weight: 600; margin-bottom: 8px; color: #ffffff;">Knowledge Sharing</h4>
+                            <p style="font-size: 14px; color: rgba(255, 255, 255, 0.7);">
+                                Access exclusive research updates and expert insights
+                            </p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="cta-section">
+                <h2 class="cta-title">The Future of Human Longevity Starts Today</h2>
+                <p style="font-size: 18px; color: rgba(255, 255, 255, 0.8); margin-bottom: 20px; max-width: 600px; margin-left: auto; margin-right: auto;">
+                    We are living through the most critical period in human history. The decisions you make today 
+                    will determine whether you live to see the achievement of longevity escape velocity.
+                </p>
+                <p style="font-size: 16px; color: rgba(255, 255, 255, 0.7); margin-bottom: 40px;">
+                    Every optimization matters. Every year of additional healthspan counts. Every contribution accelerates the timeline.
+                </p>
+                
+                <div class="cta-buttons">
+                    <a href="https://protocol.bryanjohnson.com/" target="_blank" class="btn-primary">
+                        Begin Optimization Protocol
+                    </a>
+                    <a href="https://www.sens.org/donate/" target="_blank" class="btn-secondary">
+                        Support Longevity Research
+                    </a>
+                </div>
+                
+                <div style="margin-top: 40px; padding-top: 32px; border-top: 1px solid rgba(255, 255, 255, 0.1);">
+                    <p style="font-size: 24px; font-weight: 700; color: #00ff88; margin-bottom: 8px;">
+                        "Don't Die."
+                    </p>
+                    <p style="font-size: 16px; color: rgba(255, 255, 255, 0.7);">
+                        You are needed for humanity's greatest adventure.
+                    </p>
+                </div>
+            </div>
+
+            <div style="margin-top: 60px; text-align: center; background: rgba(255, 255, 255, 0.02); border-radius: 16px; padding: 32px;">
+                <h3 style="font-size: 20px; font-weight: 600; margin-bottom: 16px; color: #ffffff;">
+                    Research Institute Contact
+                </h3>
+                <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 20px;">
+                    <div>
+                        <div style="font-weight: 600; margin-bottom: 4px;">Research Inquiries</div>
+                        <div style="font-size: 14px; color: rgba(255, 255, 255, 0.7);">research@levdynamics.org</div>
+                    </div>
+                    <div>
+                        <div style="font-weight: 600; margin-bottom: 4px;">Collaboration</div>
+                        <div style="font-size: 14px; color: rgba(255, 255, 255, 0.7);">partnerships@levdynamics.org</div>
+                    </div>
+                    <div>
+                        <div style="font-weight: 600; margin-bottom: 4px;">Media & Press</div>
+                        <div style="font-size: 14px; color: rgba(255, 255, 255, 0.7);">media@levdynamics.org</div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <script>
+        // Timeline data
+        const timelineData = [
+            { year: '2010', event: 'Human Genome Project Completion', status: 'completed' },
+            { year: '2012', event: 'CRISPR-Cas9 Development', status: 'completed' },
+            { year: '2016', event: 'AlphaFold Protein Folding', status: 'completed' },
+            { year: '2020', event: 'COVID-19 Vaccine Speed', status: 'completed' },
+            { year: '2023', event: 'AI Drug Discovery', status: 'completed' },
+            { year: '2025', event: 'Current Progress Point', status: 'current' },
+            { year: '2035', event: 'LEV Breakthrough', status: 'future' },
+            { year: '2045', event: 'Widespread Adoption', status: 'future' }
+        ];
+
+        let currentSection = 'progress';
+
+        // Initialize everything
+        document.addEventListener('DOMContentLoaded', function() {
+            if (typeof lucide !== 'undefined') {
+                lucide.createIcons();
+            }
+            initializeNavigation();
+            initializeTimeline();
+            animateProgressCircle();
+        });
+
+        // Navigation
+        function initializeNavigation() {
+            const navItems = document.querySelectorAll('.nav-item');
+            const sections = document.querySelectorAll('.content-section');
+            
+            navItems.forEach(item => {
+                item.addEventListener('click', () => {
+                    const targetSection = item.dataset.section;
+                    showSection(targetSection);
+                    
+                    // Update active nav item
+                    navItems.forEach(nav => nav.classList.remove('active'));
+                    item.classList.add('active');
+                });
+            });
+        }
+
+        function showSection(sectionId) {
+            const sections = document.querySelectorAll('.content-section');
+            
+            sections.forEach(section => {
+                if (section.id === sectionId) {
+                    section.classList.add('active');
+                    section.style.display = 'block';
+                } else {
+                    section.classList.remove('active');
+                    section.style.display = 'none';
+                }
+            });
+            
+            currentSection = sectionId;
+            
+            // Trigger section-specific animations
+            if (sectionId === 'progress') {
+                setTimeout(() => {
+                    animateProgressCircle();
+                    animateTimeline();
+                }, 100);
+            }
+        }
+
+        // Timeline
+        function initializeTimeline() {
+            const container = document.getElementById('timeline-items');
+            if (!container) return;
+
+            timelineData.forEach(item => {
+                const timelineItem = document.createElement('div');
+                timelineItem.className = 'timeline-item';
+                
+                timelineItem.innerHTML = `
+                    <div class="timeline-dot ${item.status}"></div>
+                    <div class="timeline-year">${item.year}</div>
+                    <div class="timeline-event">${item.event}</div>
+                `;
+                
+                container.appendChild(timelineItem);
+            });
+        }
+
+        function animateTimeline() {
+            const progressLine = document.getElementById('timeline-progress');
+            if (progressLine) {
+                setTimeout(() => {
+                    progressLine.style.width = '62.5%'; // 5 out of 8 completed
+                }, 500);
+            }
+        }
+
+        // Progress Circle Animation
+        function animateProgressCircle() {
+            const numberElement = document.getElementById('progress-number');
+            if (!numberElement) return;
+
+            let current = 0;
+            const target = 70; // 70% progress toward LEV
+            const increment = target / 100;
+            
+            const timer = setInterval(() => {
+                current += increment;
+                if (current >= target) {
+                    current = target;
+                    clearInterval(timer);
+                }
+                numberElement.textContent = Math.round(current) + '%';
+            }, 20);
+        }
+
+        // Keyboard navigation
+        document.addEventListener('keydown', function(e) {
+            const sections = ['progress', 'visionaries', 'protocols', 'research', 'resources', 'institute'];
+            const currentIndex = sections.indexOf(currentSection);
+            
+            if (e.key === 'ArrowRight' && currentIndex < sections.length - 1) {
+                const nextSection = sections[currentIndex + 1];
+                document.querySelector(`[data-section="${nextSection}"]`).click();
+            } else if (e.key === 'ArrowLeft' && currentIndex > 0) {
+                const prevSection = sections[currentIndex - 1];
+                document.querySelector(`[data-section="${prevSection}"]`).click();
+            }
+        });
+
+        // Initialize animations on load
+        setTimeout(() => {
+            animateProgressCircle();
+            animateTimeline();
+        }, 1000);
+    </script>
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LEV Dynamics - Longevity Escape Velocity Research Institute</title>
+    
+    <!-- CDN Links -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script src="https://unpkg.com/lucide@latest/dist/umd/lucide.js"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Space+Grotesk:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+    
+    <style>
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Inter', sans-serif;
+            background: #0a0a0a;
+            color: #ffffff;
+            overflow-x: hidden;
+        }
+
+        .font-heading {
+            font-family: 'Space Grotesk', sans-serif;
+        }
+
+        /* Navigation */
+        .main-nav {
+            position: fixed;
+            top: 0;
+            left: 0;
+            right: 0;
+            z-index: 1000;
+            background: rgba(10, 10, 10, 0.95);
+            backdrop-filter: blur(20px);
+            border-bottom: 1px solid rgba(255, 255, 255, 0.08);
+            height: 80px;
+        }
+
+        .nav-container {
+            max-width: 1400px;
+            margin: 0 auto;
+            height: 100%;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 0 40px;
+        }
+
+        .logo {
+            font-size: 28px;
+            font-weight: 800;
+            background: linear-gradient(135deg, #00ff88 0%, #0088ff 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            font-family: 'Space Grotesk', sans-serif;
+        }
+
+        .nav-menu {
+            display: flex;
+            gap: 40px;
+            align-items: center;
+        }
+
+        .nav-item {
+            color: rgba(255, 255, 255, 0.7);
+            text-decoration: none;
+            font-weight: 500;
+            font-size: 15px;
+            transition: all 0.3s ease;
+            position: relative;
+            padding: 12px 0;
+            cursor: pointer;
+        }
+
+        .nav-item:hover,
+        .nav-item.active {
+            color: #00ff88;
+        }
+
+        .nav-item.active::after {
+            content: '';
+            position: absolute;
+            bottom: 0;
+            left: 0;
+            right: 0;
+            height: 2px;
+            background: linear-gradient(90deg, #00ff88, #0088ff);
+            border-radius: 1px;
+        }
+
+        /* Content Sections */
+        .content-section {
+            min-height: 100vh;
+            padding: 120px 40px 60px;
+            display: none;
+        }
+
+        .content-section.active {
+            display: block;
+        }
+
+        .container {
+            max-width: 1400px;
+            margin: 0 auto;
+        }
+
+        /* Typography */
+        .section-header {
+            text-align: center;
+            margin-bottom: 80px;
+        }
+
+        .section-title {
+            font-size: 64px;
+            font-weight: 800;
+            font-family: 'Space Grotesk', sans-serif;
+            background: linear-gradient(135deg, #ffffff 0%, #888888 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+            margin-bottom: 24px;
+            line-height: 1.1;
+        }
+
+        .section-subtitle {
+            font-size: 20px;
+            color: rgba(255, 255, 255, 0.7);
+            max-width: 800px;
+            margin: 0 auto;
+            line-height: 1.6;
+        }
+
+        .section-description {
+            font-size: 18px;
+            color: rgba(255, 255, 255, 0.6);
+            max-width: 900px;
+            margin: 32px auto 0;
+            line-height: 1.7;
+        }
+
+        /* Cards */
+        .card {
+            background: rgba(255, 255, 255, 0.03);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            border-radius: 20px;
+            padding: 40px;
+            backdrop-filter: blur(20px);
+            transition: all 0.4s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 1px;
+            background: linear-gradient(90deg, transparent, rgba(0, 255, 136, 0.3), transparent);
+        }
+
+        .card:hover {
+            background: rgba(255, 255, 255, 0.05);
+            border-color: rgba(0, 255, 136, 0.2);
+            transform: translateY(-4px);
+        }
+
+        /* Progress Section */
+        .progress-hero {
+            display: grid;
+            grid-template-columns: 1fr 400px;
+            gap: 80px;
+            align-items: center;
+            margin-bottom: 100px;
+        }
+
+        .progress-content h2 {
+            font-size: 48px;
+            font-weight: 700;
+            font-family: 'Space Grotesk', sans-serif;
+            margin-bottom: 24px;
+            background: linear-gradient(135deg, #00ff88 0%, #0088ff 100%);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .progress-stats {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 32px;
+            margin: 40px 0;
+        }
+
+        .stat-item {
+            text-align: center;
+        }
+
+        .stat-number {
+            font-size: 36px;
+            font-weight: 800;
+            color: #00ff88;
+            display: block;
+        }
+
+        .stat-label {
+            font-size: 14px;
+            color: rgba(255, 255, 255, 0.6);
+            margin-top: 8px;
+        }
+
+        /* LEV Progress Circle */
+        .lev-circle {
+            width: 300px;
+            height: 300px;
+            position: relative;
+            margin: 0 auto;
+        }
+
+        .circle-progress {
+            width: 100%;
+            height: 100%;
+            border-radius: 50%;
+            background: conic-gradient(from 0deg, #00ff88 0deg, #00ff88 252deg, rgba(255,255,255,0.05) 252deg);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            position: relative;
+        }
+
+        .circle-progress::before {
+            content: '';
+            position: absolute;
+            inset: 40px;
+            border-radius: 50%;
+            background: #0a0a0a;
+        }
+
+        .circle-content {
+            position: relative;
+            z-index: 1;
+            text-align: center;
+        }
+
+        .circle-percentage {
+            font-size: 72px;
+            font-weight: 900;
+            color: #00ff88;
+            line-height: 1;
+        }
+
+        .circle-label {
+            font-size: 16px;
+            color: rgba(255, 255, 255, 0.7);
+            margin-top: 8px;
+            font-weight: 600;
+        }
+
+        /* Timeline */
+        .timeline-section {
+            margin-top: 80px;
+        }
+
+        .timeline-header {
+            text-align: center;
+            margin-bottom: 60px;
+        }
+
+        .timeline-container {
+            position: relative;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .timeline-line {
+            position: absolute;
+            top: 60px;
+            left: 0;
+            right: 0;
+            height: 4px;
+            background: linear-gradient(to right, 
+                rgba(255, 68, 68, 0.3) 0%,
+                rgba(255, 136, 0, 0.3) 25%,
+                rgba(255, 255, 0, 0.3) 50%,
+                rgba(136, 255, 0, 0.3) 75%,
+                rgba(0, 255, 136, 0.3) 100%);
+            border-radius: 2px;
+        }
+
+        .timeline-progress {
+            position: absolute;
+            top: 0;
+            left: 0;
+            height: 100%;
+            width: 0%;
+            background: linear-gradient(to right, #ff4444, #ff8800, #ffff00, #88ff00, #00ff88);
+            border-radius: 2px;
+            transition: width 3s ease;
+        }
+
+        .timeline-items {
+            display: grid;
+            grid-template-columns: repeat(8, 1fr);
+            gap: 20px;
+            position: relative;
+            z-index: 10;
+        }
+
+        .timeline-item {
+            text-align: center;
+            position: relative;
+        }
+
+        .timeline-dot {
+            width: 20px;
+            height: 20px;
+            border-radius: 50%;
+            margin: 0 auto 16px;
+            background: rgba(255, 255, 255, 0.2);
+            border: 3px solid rgba(255, 255, 255, 0.1);
+            transition: all 0.5s ease;
+            position: relative;
+        }
+
+        .timeline-dot.completed {
+            background: #00ff88;
+            border-color: #00ff88;
+            box-shadow: 0 0 20px rgba(0, 255, 136, 0.4);
+        }
+
+        .timeline-dot.current {
+            background: #ffff00;
+            border-color: #ffff00;
+            box-shadow: 0 0 20px rgba(255, 255, 0, 0.4);
+            animation: pulse 2s infinite;
+        }
+
+        @keyframes pulse {
+            0%, 100% { transform: scale(1); }
+            50% { transform: scale(1.2); }
+        }
+
+        .timeline-year {
+            font-size: 16px;
+            font-weight: 700;
+            color: #ffffff;
+            margin-bottom: 8px;
+        }
+
+        .timeline-event {
+            font-size: 12px;
+            color: rgba(255, 255, 255, 0.6);
+            line-height: 1.3;
+        }
+
+        /* Visionaries */
+        .visionary-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 60px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+
+        .visionary-card {
+            background: rgba(255, 255, 255, 0.02);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            border-radius: 24px;
+            padding: 48px;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .visionary-card::before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            right: 0;
+            height: 1px;
+            background: linear-gradient(90deg, transparent, rgba(0, 255, 136, 0.3), transparent);
+        }
+
+        .visionary-header {
+            display: flex;
+            align-items: center;
+            gap: 24px;
+            margin-bottom: 32px;
+        }
+
+        .visionary-avatar {
+            width: 80px;
+            height: 80px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, #00ff88, #0088ff);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 32px;
+            font-weight: 900;
+            color: #000;
+        }
+
+        .visionary-info h3 {
+            font-size: 24px;
+            font-weight: 700;
+            margin-bottom: 8px;
+        }
+
+        .visionary-title {
+            font-size: 14px;
+            color: #00ff88;
+            font-weight: 600;
+            margin-bottom: 4px;
+        }
+
+        .visionary-company {
+            font-size: 12px;
+            color: rgba(255, 255, 255, 0.5);
+        }
+
+        .visionary-quote {
+            font-size: 18px;
+            line-height: 1.6;
+            color: rgba(255, 255, 255, 0.9);
+            font-style: italic;
+            margin-bottom: 32px;
+        }
+
+        .visionary-achievements {
+            background: rgba(0, 255, 136, 0.05);
+            border: 1px solid rgba(0, 255, 136, 0.1);
+            border-radius: 16px;
+            padding: 24px;
+        }
+
+        .achievements-title {
+            font-size: 14px;
+            font-weight: 600;
+            color: #00ff88;
+            margin-bottom: 16px;
+        }
+
+        .achievement-item {
+            font-size: 14px;
+            color: rgba(255, 255, 255, 0.7);
+            margin-bottom: 8px;
+            padding-left: 16px;
+            position: relative;
+        }
+
+        .achievement-item::before {
+            content: '→';
+            position: absolute;
+            left: 0;
+            color: #00ff88;
+        }
+
+        /* Action Cards */
+        .action-grid {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 40px;
+            margin-top: 60px;
+        }
+
+        .action-card {
+            background: rgba(255, 255, 255, 0.02);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            border-radius: 20px;
+            padding: 40px;
+            text-align: center;
+            transition: all 0.4s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        .action-card:hover {
+            background: rgba(255, 255, 255, 0.04);
+            border-color: rgba(0, 255, 136, 0.2);
+            transform: translateY(-8px);
+        }
+
+        .action-icon {
+            width: 100px;
+            height: 100px;
+            border-radius: 50%;
+            background: linear-gradient(135deg, rgba(0, 255, 136, 0.2), rgba(0, 136, 255, 0.2));
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin: 0 auto 24px;
+            border: 2px solid rgba(0, 255, 136, 0.3);
+        }
+
+        .action-title {
+            font-size: 24px;
+            font-weight: 700;
+            margin-bottom: 16px;
+            font-family: 'Space Grotesk', sans-serif;
+        }
+
+        .action-description {
+            font-size: 16px;
+            color: rgba(255, 255, 255, 0.7);
+            line-height: 1.6;
+            margin-bottom: 24px;
+        }
+
+        .action-details {
+            background: rgba(0, 0, 0, 0.3);
+            border-radius: 12px;
+            padding: 20px;
+            text-align: left;
+            margin-bottom: 20px;
+        }
+
+        .action-details h4 {
+            font-size: 14px;
+            font-weight: 600;
+            color: #00ff88;
+            margin-bottom: 12px;
+        }
+
+        .action-details ul {
+            list-style: none;
+            space-y: 6px;
+        }
+
+        .action-details li {
+            font-size: 13px;
+            color: rgba(255, 255, 255, 0.7);
+            margin-bottom: 6px;
+            padding-left: 16px;
+            position: relative;
+        }
+
+        .action-details li::before {
+            content: '✓';
+            position: absolute;
+            left: 0;
+            color: #00ff88;
+            font-weight: bold;
+        }
+
+        .impact-metric {
+            background: linear-gradient(135deg, rgba(0, 255, 136, 0.1), rgba(0, 136, 255, 0.1));
+            border: 1px solid rgba(0, 255, 136, 0.2);
+            border-radius: 12px;
+            padding: 16px;
+            text-align: center;
+        }
+
+        .impact-number {
+            font-size: 20px;
+            font-weight: 800;
+            color: #00ff88;
+        }
+
+        .impact-label {
+            font-size: 12px;
+            color: rgba(255, 255, 255, 0.6);
+            margin-top: 4px;
+        }
+
+        /* Research Progress */
+        .research-grid {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 40px;
+            margin-top: 60px;
+        }
+
+        .research-category {
+            background: rgba(255, 255, 255, 0.02);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            border-radius: 20px;
+            padding: 40px;
+            position: relative;
+        }
+
+        .category-header {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            margin-bottom: 24px;
+        }
+
+        .category-icon {
+            width: 60px;
+            height: 60px;
+            border-radius: 12px;
+            background: linear-gradient(135deg, rgba(0, 255, 136, 0.2), rgba(0, 136, 255, 0.2));
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            border: 1px solid rgba(0, 255, 136, 0.3);
+        }
+
+        .category-title {
+            font-size: 20px;
+            font-weight: 700;
+            font-family: 'Space Grotesk', sans-serif;
+        }
+
+        .breakthrough-item {
+            background: rgba(0, 0, 0, 0.2);
+            border-radius: 12px;
+            padding: 20px;
+            margin-bottom: 16px;
+            border-left: 3px solid #00ff88;
+        }
+
+        .breakthrough-title {
+            font-size: 16px;
+            font-weight: 600;
+            margin-bottom: 8px;
+        }
+
+        .breakthrough-description {
+            font-size: 14px;
+            color: rgba(255, 255, 255, 0.7);
+            line-height: 1.5;
+            margin-bottom: 12px;
+        }
+
+        .breakthrough-status {
+            font-size: 12px;
+            font-weight: 600;
+            color: #00ff88;
+            background: rgba(0, 255, 136, 0.1);
+            padding: 4px 12px;
+            border-radius: 20px;
+            display: inline-block;
+        }
+
+        /* Resources */
+        .resource-categories {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            gap: 60px;
+            margin-top: 60px;
+        }
+
+        .resource-category {
+            background: rgba(255, 255, 255, 0.02);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            border-radius: 20px;
+            padding: 40px;
+        }
+
+        .resource-header {
+            text-align: center;
+            margin-bottom: 32px;
+        }
+
+        .resource-header h3 {
+            font-size: 28px;
+            font-weight: 700;
+            font-family: 'Space Grotesk', sans-serif;
+            margin-bottom: 12px;
+            background: linear-gradient(135deg, #00ff88, #0088ff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .resource-list {
+            space-y: 20px;
+        }
+
+        .resource-item {
+            background: rgba(0, 0, 0, 0.2);
+            border-radius: 16px;
+            padding: 24px;
+            margin-bottom: 20px;
+            transition: all 0.3s ease;
+            text-decoration: none;
+            color: inherit;
+            display: block;
+            border: 1px solid rgba(255, 255, 255, 0.05);
+        }
+
+        .resource-item:hover {
+            background: rgba(0, 0, 0, 0.3);
+            border-color: rgba(0, 255, 136, 0.2);
+            transform: translateY(-2px);
+            text-decoration: none;
+            color: inherit;
+        }
+
+        .resource-meta {
+            display: flex;
+            align-items: center;
+            gap: 16px;
+            margin-bottom: 12px;
+        }
+
+        .resource-avatar {
+            width: 50px;
+            height: 50px;
+            border-radius: 8px;
+            background: linear-gradient(135deg, #00ff88, #0088ff);
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            font-size: 20px;
+            color: #000;
+            font-weight: bold;
+        }
+
+        .resource-title {
+            font-size: 18px;
+            font-weight: 600;
+            margin-bottom: 4px;
+        }
+
+        .resource-author {
+            font-size: 14px;
+            color: rgba(255, 255, 255, 0.6);
+        }
+
+        .resource-description {
+            font-size: 14px;
+            color: rgba(255, 255, 255, 0.7);
+            line-height: 1.5;
+        }
+
+        /* Call to Action */
+        .cta-section {
+            background: linear-gradient(135deg, rgba(0, 255, 136, 0.05), rgba(0, 136, 255, 0.05));
+            border: 1px solid rgba(0, 255, 136, 0.1);
+            border-radius: 24px;
+            padding: 60px;
+            text-align: center;
+            margin-top: 80px;
+        }
+
+        .cta-title {
+            font-size: 40px;
+            font-weight: 700;
+            font-family: 'Space Grotesk', sans-serif;
+            margin-bottom: 20px;
+            background: linear-gradient(135deg, #00ff88, #0088ff);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
+        }
+
+        .cta-buttons {
+            display: flex;
+            gap: 24px;
+            justify-content: center;
+            margin-top: 40px;
+        }
+
+        .btn-primary {
+            background: linear-gradient(135deg, #00ff88, #0088ff);
+            color: #000;
+            padding: 16px 32px;
+            border-radius: 12px;
+            font-weight: 600;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            border: none;
+            cursor: pointer;
+        }
+
+        .btn-primary:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 10px 30px rgba(0, 255, 136, 0.3);
+            text-decoration: none;
+            color: #000;
+        }
+
+        .btn-secondary {
+            background: transparent;
+            color: #00ff88;
+            padding: 16px 32px;
+            border-radius: 12px;
+            font-weight: 600;
+            text-decoration: none;
+            transition: all 0.3s ease;
+            border: 2px solid #00ff88;
+        }
+
+        .btn-secondary:hover {
+            background: #00ff88;
+            color: #000;
+            transform: translateY(-2px);
+            text-decoration: none;
+        }
+
+        /* Responsive */
+        @media (max-width: 1200px) {
+            .nav-menu {
+                gap: 24px;
+            }
+            
+            .progress-hero {
+                grid-template-columns: 1fr;
+                gap: 40px;
+                text-align: center;
+            }
+            
+            .lev-circle {
+                width: 250px;
+                height: 250px;
+            }
+        }
+
+        @media (max-width: 768px) {
+            .container {
+                padding: 0 20px;
+            }
+            
+            .content-section {
+                padding: 100px 20px 40px;
+            }
+            
+            .section-title {
+                font-size: 40px;
+            }
+            
+            .visionary-grid,
+            .action-grid,
+            .research-grid,
+            .resource-categories {
+                grid-template-columns: 1fr;
+            }
+            
+            .timeline-items {
+                grid-template-columns: repeat(4, 1fr);
+                gap: 10px;
+            }
+            
+            .nav-menu {
+                gap: 16px;
+            }
+            
+            .nav-item {
+                font-size: 13px;
+            }
+            
+            .cta-buttons {
+                flex-direction: column;
+                align-items: center;
+            }
+        }
+    </style>
+</head>
+<body>
+    <!-- Navigation -->
+    <nav class="main-nav">
+        <div class="nav-container">
+            <div class="logo">LEV Dynamics</div>
+            <div class="nav-menu">
+                <div class="nav-item active" data-section="progress">Research Progress</div>
+                <div class="nav-item" data-section="visionaries">Scientific Leadership</div>
+                <div class="nav-item" data-section="protocols">Optimization Protocols</div>
+                <div class="nav-item" data-section="research">Breakthrough Analytics</div>
+                <div class="nav-item" data-section="resources">Knowledge Base</div>
+                <div class="nav-item" data-section="institute">Research Institute</div>
+            </div>
+        </div>
+    </nav>
+
+    <!-- Research Progress Section -->
+    <section id="progress" class="content-section active">
+        <div class="container">
+            <div class="section-header">
+                <h1 class="section-title">Longevity Escape Velocity</h1>
+                <p class="section-subtitle">
+                    Quantifying Humanity's Progress Toward Indefinite Healthy Lifespan
+                </p>
+                <p class="section-description">
+                    LEV represents the threshold where medical advances extend healthy human lifespan 
+                    faster than chronological aging occurs. Our research indicates we are approaching 
+                    this critical inflection point within the next two decades.
+                </p>
+            </div>
+
+            <div class="progress-hero">
+                <div class="progress-content">
+                    <h2>Current LEV Progress Assessment</h2>
+                    <p style="font-size: 18px; color: rgba(255, 255, 255, 0.7); line-height: 1.6; margin-bottom: 32px;">
+                        Based on comprehensive analysis of biogerontology research, AI-accelerated drug discovery, 
+                        and cellular reprogramming breakthroughs, we estimate current progress toward 
+                        longevity escape velocity at approximately 70%.
+                    </p>
+                    
+                    <div class="progress-stats">
+                        <div class="stat-item">
+                            <span class="stat-number">2045</span>
+                            <div class="stat-label">Projected LEV Achievement</div>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-number">15-30</span>
+                            <div class="stat-label">Years Optimal Protocols Add</div>
+                        </div>
+                        <div class="stat-item">
+                            <span class="stat-number">1000+</span>
+                            <div class="stat-label">Active Research Programs</div>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="lev-circle">
+                    <div class="circle-progress">
+                        <div class="circle-content">
+                            <div class="circle-percentage" id="progress-number">0</div>
+                            <div class="circle-label">LEV Progress</div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="timeline-section">
+                <div class="timeline-header">
+                    <h3 style="font-size: 32px; font-weight: 700; margin-bottom: 16px; font-family: 'Space Grotesk', sans-serif;">
+                        Longevity Research Timeline
+                    </h3>
+                    <p style="font-size: 16px; color: rgba(255, 255, 255, 0.7);">
+                        Major milestones in the path to longevity escape velocity
+                    </p>
+                </div>
+                
+                <div class="timeline-container">
+                    <div class="timeline-line">
+                        <div class="timeline-progress" id="timeline-progress"></div>
+                    </div>
+                    <div class="timeline-items" id="timeline-items">
+                        <!-- Timeline items will be generated by JavaScript -->
+                    </div>
